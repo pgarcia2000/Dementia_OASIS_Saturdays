@@ -30,7 +30,7 @@ For easier access all images and subject data are already loaded into a [Diction
 If you have a CUDA device, you can always run the command ` pip install -r requirements.txt`. Else basic libraries are Pytorch, Optuna, Matplotlib, Scipy, Scikit-Learn, Pandas
 You can always clone the repository with and all commands must be run from  [Main File](saturdays-dementia_main.py)
 ```
-!git clone https://github.com/bloodclaw2000/Dementia_OASIS_Saturdays.git
+!git clone https://github.com/pgarcia2000/Dementia_OASIS_Saturdays.git
 
 ```
 There is also an available Colab repository for fully online integration.  [Colaboratory File](dementia_colab.ipynb)
